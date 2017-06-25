@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hey there !!,
+I am Tirthankar Nayak from India.
+Glad to be here.
